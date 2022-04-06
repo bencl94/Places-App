@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Redirect, Switch } from 'react-router-d
 
 import Users from './user/pages/User';
 import UserPlaces from './places/pages/UserPlaces';
-import NewPlace from './places/pages/Place';
+import NewPlace from './places/pages/NewPlace';
 import MainNavigation from './shared/components/Navigation/MainNavigation';
 
 function App() {
